@@ -11,6 +11,7 @@ print('DT Nascimento:', dados.getDtnascimento())
 
 dadospj = Pessoa_Juridica(CNPJ= '04.234.765/0001-62', nome='Marília S/A',dtnascimento='12/08/1966')
 
+
 print('CNPJ:', dadospj.getCNPJ())
 print('Razão Social', dadospj.getNome())
 print('Dt. Criação:', dadospj.getDtnascimento())
