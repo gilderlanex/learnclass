@@ -10,7 +10,7 @@ class Pessoa:
     def setDtnascimento(self, dtnascimento):
         self.dtnascimento = dtnascimento
 
-    def setend(self, end):
+    def setEndereco(self, end):
         self.end = end
 
     def getNome(self): ## Método para capturar.
